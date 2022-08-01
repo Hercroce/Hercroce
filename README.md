@@ -2,4 +2,4 @@
 - 👀 I’m interested in python and it's usages 
 - 🌱 I’m currently learning object orientation
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: here or by e-mail.
+- 📫 How to reach me: here or by hercroce@gmail.com.
