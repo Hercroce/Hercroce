@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hercroce
-- 👀 I’m interested in python and it's usages 
-- 🌱 I’m currently learning object orientation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: here or by hercroce@gmail.com.
+- 👀 I’m interested in programing (specially python) and it's usages. I've some good experience in finance, business, law and now chasing some more on programing.
+- 🌱 I’m currently learning object orientation in python
+- 💞️ I’m looking to collaborate on projects that require multiple skills other those restrict to programing
+- 📫 How to reach me: here at GitHub or by hercroce@gmail.com.
