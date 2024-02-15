@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Hercroce
-- 👀 I’m interested in programing (specially python) and it's usages. I've some good experience in finance, business, law and now chasing some more on programing.
-- 🌱 I’m currently learning data science in python
-- 💞️ I’m looking to collaborate on projects that require multiple skills other those restrict to programing
+- 👀 I’m interested in all aspects of data, from collection to analyses. I also have some good experience in finance, business and law.
+- 💚 I really like to collaborate on projects that require multiple skills other those restrict to programing
 - 📫 How to reach me: here at GitHub or by my email hercroce@gmail.com.
