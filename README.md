@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Hercroce
 - 👀 I’m interested in all aspects of data, from collection to analyses. I also have some good experience in finance, business and law.
 - 💚 I really like to collaborate on projects that require multiple skills other those restrict to programing
+- 🎯 Great fan of Uncle Bob and his work ethics.
 - 📫 How to reach me: here at GitHub or by my email hercroce@gmail.com.
